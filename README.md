@@ -245,7 +245,7 @@ Special thanks to all students, collaborators, and open-source champions who mad
 🔗 Share with your network  
 💬 Connect with [Anant Prakash Awasthi](https://www.linkedin.com/in/anantawasthi) on LinkedIn for future updates and learning content
 
-👨‍🏫 [About Instructor](about-me.md)
+👨‍🏫 [About Instructor](./about-me.md)
 
 ---
 

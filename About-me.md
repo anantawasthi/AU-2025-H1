@@ -1,5 +1,3 @@
-
-
 ## 👨‍🏫 About the Instructor
 
 **Dr. Anant Prakash Awasthi, PhD**  
@@ -13,16 +11,10 @@ Currently, Dr. Awasthi is exploring the **cutting-edge realms of Cloud Computing
 
 As an educator, his focus is on **demystifying data science for diverse audiences** — making it accessible, applicable, and aligned to real-world challenges.
 
-
-
 📍 Follow his work on  
 🔗 GitHub: [github.com/anantawasthi](https://github.com/anantawasthi)  
 🔗 LinkedIn: [linkedin.com/in/anantawasthi](https://www.linkedin.com/in/anantawasthi)
 
-
-
 <p align="center">
   <img src="./images/about-me.png" alt="About me" width="100%">
 </p>
-
-

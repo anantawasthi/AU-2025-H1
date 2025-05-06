@@ -2,8 +2,6 @@
 
 Welcome to the official repository for the **🎓 Data Science and Future Trends** workshop — a **3-hour learning sprint** blending theory, hands-on skills, real-world tools, and emerging AI frontiers. Designed for budding minds in **Mathematics & Statistics**, this journey takes you from Python basics to Generative AI, with ethics and design thinking along the way!
 
-
-
 <p align="center">
   <img src="./images/repo-banner.png" alt="Data Science Banner" width="100%">
 </p>
@@ -246,6 +244,8 @@ Special thanks to all students, collaborators, and open-source champions who mad
 ⭐ Star this repo if you find it useful  
 🔗 Share with your network  
 💬 Connect with [Anant Prakash Awasthi](https://www.linkedin.com/in/anantawasthi) on LinkedIn for future updates and learning content
+
+👨‍🏫 [About Anant](about-me.md)
 
 ---
 
